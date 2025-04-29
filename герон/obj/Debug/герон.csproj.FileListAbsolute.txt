@@ -1,0 +1,15 @@
+F:\рпм\герон\герон\bin\Debug\герон.exe.config
+F:\рпм\герон\герон\bin\Debug\герон.exe
+F:\рпм\герон\герон\bin\Debug\герон.pdb
+F:\рпм\герон\герон\obj\Debug\герон.csproj.AssemblyReference.cache
+F:\рпм\герон\герон\obj\Debug\герон.csproj.CoreCompileInputs.cache
+F:\рпм\герон\герон\obj\Debug\герон.exe
+F:\рпм\герон\герон\obj\Debug\герон.pdb
+D:\рпм\герон\герон\bin\Debug\герон.exe.config
+D:\рпм\герон\герон\bin\Debug\герон.exe
+D:\рпм\герон\герон\bin\Debug\герон.pdb
+D:\рпм\герон\герон\obj\Debug\герон.csproj.AssemblyReference.cache
+D:\рпм\герон\герон\obj\Debug\герон.csproj.SuggestedBindingRedirects.cache
+D:\рпм\герон\герон\obj\Debug\герон.csproj.CoreCompileInputs.cache
+D:\рпм\герон\герон\obj\Debug\герон.exe
+D:\рпм\герон\герон\obj\Debug\герон.pdb
